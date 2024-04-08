@@ -446,6 +446,6 @@ Header-saction
  .footer a i:hover{
     color: var(--text-gray);
  }
-.my-name:hover{
+.my-name a:hover{
  color:black;
 }
